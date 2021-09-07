@@ -3,7 +3,6 @@ var prime = 0;
 
 
 for (i = 2; i <= num / 2; ++i) {
-    console.log(i);
     if (num % i == 0) {
         prime = 1;
         break;
