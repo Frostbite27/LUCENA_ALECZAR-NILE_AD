@@ -1,0 +1,16 @@
+var object = { potato: "is yummy" };
+var array = [1, 2, 3, 4, 5];
+var string = "hehehe";
+var number = 10;
+var boolean = true;
+var undefined;
+var novalue = null;
+var symbol = Symbol('symbol');
+console.log(typeof object);
+console.log(typeof array);
+console.log(typeof string);
+console.log(typeof number);
+console.log(typeof boolean);
+console.log(typeof undefined);
+console.log(typeof novalue);
+console.log(typeof symbol);
